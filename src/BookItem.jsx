@@ -18,7 +18,7 @@ const BookItem = (props) => {
         onClick={props.addBookToCart.bind(null, props.book)}
         className="btn btn-lg btn-primary mx-1"
       >
-        Bye
+        Buy
       </button>
     </div>
   );
